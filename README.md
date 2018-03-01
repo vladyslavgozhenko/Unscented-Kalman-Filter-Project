@@ -1,6 +1,6 @@
 # Unscented Kalman Filter Project
 <p align='center'>
-<img src="https://github.com/wiwawo/Unscented-Kalman-Filter-Project/blob/master/src/Simulator.png" width="480" alt="simulator" />
+<img src="https://github.com/wiwawo/Unscented-Kalman-Filter-Project/blob/master/Simulator.png" width="480" alt="simulator" />
 </p>
 
 In this project I will utilize a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements.
